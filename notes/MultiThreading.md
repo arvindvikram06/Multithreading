@@ -1,1 +1,1 @@
-![Thread Diagram](./images/L1-01.png)
+![Thread Diagram](../images/L1-01.png)
